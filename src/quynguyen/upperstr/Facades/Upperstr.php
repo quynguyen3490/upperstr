@@ -1,4 +1,4 @@
-<?php namespace Quynguyen\Upperstr;
+<?php namespace Quynguyen\Upperstr\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
