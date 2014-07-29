@@ -1,12 +1,27 @@
 {
-    "name": "quynguyen3490/upperstr",
-    "description": "Convert str to upper",
+    "name": "quynguyen/upperstr",
+    "version": "1.0",
+    "description": "Convert string to upper",
+    "keywords":[
+        "laravel",
+        "strtoupper"
+    ],
+    "homepage":"https://github.com/quynguyen3490/upperstr",
+    "authors": [
+        {
+            "name": "Quy Nguyen",
+            "email": "quynguyen3490@gmail.com"
+        }
+    ],
+    "license": "MIT License",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "illuminate/support": "4.x"
     },
     "autoload": {
         "psr-0": {
-            "QuyNguyen3490/UpperStr/": "src"
+            "Quynguyen\\Upperstr\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
