@@ -1,5 +1,5 @@
 <?php
-namespace QuyNguyen3490\UpperStr;
+namespace Quynguyen\Upperstr;
 
 use Illuminate\Support\ServiceProvider;
 
